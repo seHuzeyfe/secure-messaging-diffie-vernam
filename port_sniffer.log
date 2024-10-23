@@ -1,0 +1,41 @@
+2024-10-16 16:10:27,831 - Capture error: Npcap 802.11 support is NOT enabled !
+2024-10-16 16:13:11,470 - 
+=== Captured Packet ===
+From: 127.0.0.1:51905
+To: 127.0.0.1:14580
+Length: 25 bytes
+Raw data (hex): 000000102d4072d4d7e0505cee53af9874b17837ab792b2621
+Attempted decode: [Failed - Encrypted data]
+=====================
+2024-10-16 16:13:16,099 - 
+=== Captured Packet ===
+From: 127.0.0.1:14580
+To: 127.0.0.1:51905
+Length: 31 bytes
+Raw data (hex): 00000010cd514464f8b691aa5fc838148a84d125e992970f35f5da6355589b
+Attempted decode: [Failed - Encrypted data]
+=====================
+2024-10-16 16:39:42,146 - 
+=== Captured Packet ===
+From: 127.0.0.1:51905
+To: 127.0.0.1:14580
+Length: 47 bytes
+Raw data (hex): 0000001098beb61d08c8c0df6451807d27c5eba0a68c3b5f7e36080970a6309c9e53c5d5a6eb58416da378cb6bffa8
+Attempted decode: [Failed - Encrypted data]
+=====================
+2024-10-16 16:39:49,080 - 
+=== Captured Packet ===
+From: 127.0.0.1:14580
+To: 127.0.0.1:51905
+Length: 28 bytes
+Raw data (hex): 0000001018075bae294e35e616030fd54122d8d2e7ee754e55d895ac
+Attempted decode: [Failed - Encrypted data]
+=====================
+2024-10-16 16:40:09,004 - 
+=== Captured Packet ===
+From: 127.0.0.1:14580
+To: 127.0.0.1:51905
+Length: 38 bytes
+Raw data (hex): 000000102a6389de833b9695040a3d366916472c40df23ec7768fb6377b9cdf7bb663546ecd1
+Attempted decode: [Failed - Encrypted data]
+=====================
